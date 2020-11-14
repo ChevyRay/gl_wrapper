@@ -1,0 +1,8 @@
+[package]
+name = "gl_wrapper"
+version = "0.1.0"
+authors = ["Chevy Ray Johnston <happytrash@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gl = "^0.14.0"
